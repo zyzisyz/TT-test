@@ -2,7 +2,7 @@
 
 mnist TT test
 
-## Useage
+## Usage
 
 1. install [TT-torch](https://github.com/KhrulkovV/tt-pytorch)
 
